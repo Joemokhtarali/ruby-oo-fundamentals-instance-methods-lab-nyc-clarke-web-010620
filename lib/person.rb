@@ -4,7 +4,7 @@ class Person
   end 
   
   def talk  
-    puts "Hello world!"
+    puts "Hello World!"
   end 
   
 end 
